@@ -1,5 +1,5 @@
 # Self-driving-car
-This is a  simple Deep Reinforcement learning self driving car model using Deep Q-learning algorithm
+This is a  simple Deep Reinforcement learning self driving car model using Deep Q-learning algorithm.In this model the car is trying to reach `upper-left` corner or `bottom-right` corner as two destination places.
 <img src = "https://github.com/pradhuman131/Self-driving-car/blob/master/image/preview.gif" width= "700" height = "600">
 
 ## Dependencies
